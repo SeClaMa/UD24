@@ -43,31 +43,31 @@
 # Get All Videos
 # https://localhost:44359/api/Videos/
 
-![Get Cliente All](https://raw.githubusercontent.com/SeClaMa/UD24/Ej2/Ej2_Get.png)
+![Get Video All](https://raw.githubusercontent.com/SeClaMa/UD24/Ej2/Ej2_Get.png)
 
 
 # Get Id Video
 # https://localhost:44359/api/Videos/1
 
-![Get Id Cliente](https://github.com/SeClaMa/UD24/blob/Ej2/Ej2_Get_Id.png)
+![Get Id Video](https://github.com/SeClaMa/UD24/blob/Ej2/Ej2_Get_Id.png)
 
 
 # Post Video
 # https://localhost:44359/api/Videos/
 
-![Post Cliente](https://github.com/SeClaMa/UD24/blob/Ej2/Ej2_Post.png)
+![Post Video](https://github.com/SeClaMa/UD24/blob/Ej2/Ej2_Post.png)
 
 
 # Put Id Video
 # https://localhost:44359/api/Videos/1
 
-![Put Cliente Id](https://github.com/SeClaMa/UD24/blob/Ej2/Ej2_Put.png)
+![Put Video Id](https://github.com/SeClaMa/UD24/blob/Ej2/Ej2_Put.png)
 
 
 # Delete Id Video
 # https://localhost:44359/api/Videos/1
 
-![Delete Cliente Id](https://github.com/SeClaMa/UD24/blob/Ej2/Ej2_Del.png)
+![Delete Video Id](https://github.com/SeClaMa/UD24/blob/Ej2/Ej2_Del.png)
 
 
 # Swagger UI
